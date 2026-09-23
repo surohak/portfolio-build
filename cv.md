@@ -90,7 +90,7 @@ Founding frontend engineer on Picsart's Creative Photo Editor, built from scratc
 - State management: Redux (Toolkit), MobX, Zustand, Recoil, Effector.js, Vuex, Pinia
 - UI components: shadcn/ui, Radix UI, Headless UI, Material UI, Chakra UI, Ant Design, Vuetify, Core UI
 - Styles: CSS, SCSS, SASS, LESS, Styled Components, Tailwind CSS, React JSS, PostCSS, Framer Motion
-- Design engineering: design systems, design tokens, Figma, Figma Dev Mode, Storybook, web accessibility (WCAG), Core Web Vitals, Lighthouse
+- Design engineering: Figma to Code Agent, design systems, design tokens, Figma, Figma Dev Mode, Storybook, web accessibility (WCAG), Core Web Vitals, Lighthouse
 - Build tools: Webpack, Vite, Rollup
 - Tests: unit, integration, E2E, Cypress, Playwright, React Testing Library, Vitest, Jest
 - Multiplatform: Electron.js, React Native, Qt QML, WeChat Mini Apps
