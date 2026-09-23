@@ -1,0 +1,32 @@
+# Suren Hakobyan
+
+> Senior Frontend Engineer (React, TypeScript, Next.js, Vue) based in Yerevan, Armenia, working remotely. Builds the hard part of product UI: canvas editors, node-based workflow builders and AI features in production. Works agent-first every day with Claude Code, Cursor, Codex, MCP servers and CLIs. Currently at Toptal; previously JobLeads, Simplified, ENKE Systems (Warner Music Group, Empire) and Picsart (founding frontend engineer on the Photo Editor).
+
+Contact: surhak96@gmail.com
+
+## CV
+
+- [CV as Markdown](https://surhak.vercel.app/cv.md): full CV in plain text, same content as the PDF
+- [CV as PDF](https://surhak.vercel.app/files/Suren%20Hakobyan%20-%20Senior%20Frontend%20Engineer%20-%20CV.pdf)
+
+## Pages
+
+- [Home](https://surhak.vercel.app/): overview
+- [About](https://surhak.vercel.app/about): background and how he works
+- [Projects](https://surhak.vercel.app/projects): selected work
+- [Skills](https://surhak.vercel.app/skills): full skills matrix, including AI & agentic tools, MCP servers and CLIs
+- [Contact](https://surhak.vercel.app/contact)
+
+## Case studies
+
+- [Toptal: ATS workflow builder](https://surhak.vercel.app/projects/toptal): node-based workflow builder (React Flow), GraphQL dashboards, design system
+- [JobLeads: AI resume product, then growth frontend](https://surhak.vercel.app/projects/jobleads): AI Resume Builder and Review, SEO, A/B tests, 90+ Lighthouse
+- [Simplified: AI photo/video/audio editor](https://surhak.vercel.app/projects/simplified): Canvas with Fabric.js, real-time processing, WebSocket collaboration
+- [Picsart: Creative Photo Editor from line one](https://surhak.vercel.app/projects/picsart): Canvas with Konva.js, 400M+ user product, WeChat mini-apps
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/surhak/)
+- [GitHub](https://github.com/surohak)
+- [career-agents](https://github.com/surohak/career-agents): open-source Claude Code plugin for keeping CV, LinkedIn and site in sync
+- [autonomous-dev-agent](https://github.com/surohak/autonomous-dev-agent): open-source local agent from Jira ticket to merge request
