@@ -14,7 +14,7 @@ Contact: surhak96@gmail.com
 - [Home](https://surhak.vercel.app/): overview
 - [About](https://surhak.vercel.app/about): background and how he works
 - [Projects](https://surhak.vercel.app/projects): selected work
-- [Skills](https://surhak.vercel.app/skills): full skills matrix, including AI & agentic tools, MCP servers and CLIs
+- [Skills](https://surhak.vercel.app/skills): full skills matrix, including AI & agentic tools (RAG, agent pipelines), MCP servers and CLIs, and mobile (React Native, Expo)
 - [Contact](https://surhak.vercel.app/contact)
 
 ## Case studies

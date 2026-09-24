@@ -85,7 +85,7 @@ Founding frontend engineer on Picsart's Creative Photo Editor, built from scratc
 
 - Main: TypeScript, JavaScript, React, Next.js, Vue, Nuxt.js, Canvas (2D), React Flow, Redux, Qt QML
 - HTML5 Canvas: Konva.js, Fabric.js, image/video processing, real-time rendering, layering systems, filters, transformations
-- AI & Agentic: Claude Code, Cursor IDE, Codex, Google Antigravity IDE, ChatGPT/Claude API, MCP (Model Context Protocol), prompt engineering, AI-augmented development, Figma AI, AI strategy & evaluation, LLM integration architecture, AI quality benchmarking, human-AI workflow design
+- AI & Agentic: Claude Code, Cursor IDE, Codex, Google Antigravity IDE, ChatGPT/Claude API, MCP (Model Context Protocol), RAG (Pinecone, embeddings), agent pipelines, prompt engineering, AI-augmented development, Figma AI, AI strategy & evaluation, LLM integration architecture, AI quality benchmarking, human-AI workflow design
 - MCP & CLI: Atlassian MCP (Jira, Confluence), Playwright MCP, Chrome DevTools MCP, Figma MCP, Slack MCP, Sentry MCP, Grafana MCP, Context7, Neon MCP, Cloudflare MCP, custom MCP servers, GitHub CLI, GitLab CLI, Atlassian CLI, Vercel CLI, Wrangler, AWS CLI, gcloud, kubectl
 - State management: Redux (Toolkit), MobX, Zustand, Recoil, Effector.js, Vuex, Pinia
 - UI components: shadcn/ui, Radix UI, Headless UI, Material UI, Chakra UI, Ant Design, Vuetify, Core UI
@@ -93,11 +93,11 @@ Founding frontend engineer on Picsart's Creative Photo Editor, built from scratc
 - Design engineering: Figma to Code Agent, design systems, design tokens, Figma, Figma Dev Mode, Storybook, web accessibility (WCAG), Core Web Vitals, Lighthouse
 - Build tools: Webpack, Vite, Rollup
 - Tests: unit, integration, E2E, Cypress, Playwright, React Testing Library, Vitest, Jest
-- Multiplatform: Electron.js, React Native, Qt QML, WeChat Mini Apps
-- SSR/SSG: Next.js (SSR, SSG, CSR), Nuxt.js (SSR, SSG), React Server Components
+- Mobile & multiplatform: React Native, Expo, Expo Router, Reanimated, mobile architecture (shared web + mobile monorepo), Electron.js, Qt QML, WeChat Mini Apps
+- SSR/SSG: Next.js (SSR, SSG, CSR), Nuxt.js (SSR, SSG), React Server Components, streaming SSR
 - API & data: React Query (TanStack Query), Zod, GraphQL, Apollo Client, REST APIs, WebSocket, Firebase
 - Data visualization: Chart.js, Apache ECharts, Apache Superset, Recharts, Leaflet.js
-- Other: WebAssembly, Node.js, Express.js, React Hook Form, Turborepo, Prisma, Docker, micro-frontends, Web Workers, streaming SSR, performance optimization, code review
+- Other: WebAssembly, Node.js, Express.js, React Hook Form, Turborepo, Prisma, Docker, micro-frontends, Web Workers, performance optimization, code review
 - Methodologies: Agile, Scrum, Kanban, CI/CD
 - Leadership: technical mentoring, code reviews, stakeholder communication, architecture planning
 
