@@ -1,4 +1,4 @@
-# Suren Hakobyan, Senior Frontend Engineer
+# Suren Hakobyan, Senior Frontend Engineer | AI-native Product Engineer
 
 Yerevan, Armenia (UTC+4), remote · surhak96@gmail.com · [linkedin.com/in/surhak](https://www.linkedin.com/in/surhak/) · [github.com/surohak](https://github.com/surohak) · [surhak.vercel.app](https://surhak.vercel.app/)
 
