@@ -22,6 +22,18 @@ Full-time on Toptal's in-house product team, building Toptal's own Applicant Tra
 - Delivered frontend modernization work in a large monorepo: module and route refactors, service decoupling, unit and component testing (Jest, React Testing Library), and code review
 - Own initiatives from concept to production, not only the hardest slice
 
+### Founder, inflyu
+11/2025 - Present · Yerevan, Armenia, remote · https://inflyu.com
+
+Solo-built AI creative platform with 10,000+ organic sign-ups, driven by an autonomous learning loop that makes every generation smarter. I own product, architecture, frontend, backend, mobile and growth. AI agents write most of the code under rules and review gates I designed.
+
+- Autonomous learning loop: post analytics feed back into prompt scores, shifting from AI quality to real engagement as accounts mature
+- RAG on Pinecone: top performers return as few-shot examples, rejected results as anti-examples; nightly prompt evolution with 80/20 explore/exploit
+- Long AI jobs on 300s serverless: a 4-step QStash pipeline with idempotency keys, retries and automatic refunds
+- Model router over 25 image, video and language models with health-based failover
+- AI Image and Video Editors with 20+ tools each, a node-based Canvas and auto-posting to 6 platforms
+- Stack: Next.js, React, TypeScript, Zustand, TanStack Query, Turborepo, PostgreSQL, Prisma, QStash, Pinecone, FFmpeg, Stripe, React Native, Expo
+
 ### Frontend Software Engineer, JobLeads
 07/2024 - 06/2026 · Hamburg, Germany, remote
 

@@ -1,6 +1,6 @@
 # Suren Hakobyan
 
-> Senior Frontend Engineer (React, TypeScript, Next.js, Vue) based in Yerevan, Armenia, working remotely. Builds the hard part of product UI: canvas editors, node-based workflow builders and AI features in production. Works agent-first every day with Claude Code, Cursor, Codex, MCP servers and CLIs. Currently at Toptal; previously JobLeads, Simplified, ENKE Systems (Warner Music Group, Empire) and Picsart (founding frontend engineer on the Photo Editor).
+> Senior Frontend Engineer (React, TypeScript, Next.js, Vue) based in Yerevan, Armenia, working remotely. Builds the hard part of product UI: canvas editors, node-based workflow builders and AI features in production. Works agent-first every day with Claude Code, Cursor, Codex, MCP servers and CLIs. Currently at Toptal, and founder of inflyu (inflyu.com), a solo-built AI creative platform with 10,000+ users; previously JobLeads, Simplified, ENKE Systems (Warner Music Group, Empire) and Picsart (founding frontend engineer on the Photo Editor).
 
 Contact: surhak96@gmail.com
 
