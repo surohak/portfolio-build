@@ -1,4 +1,4 @@
-# Suren Hakobyan, Senior Frontend Engineer | AI-native Product Engineer
+# Suren Hakobyan, Senior Frontend Engineer · Agentic Engineering & AI Enablement
 
 Yerevan, Armenia (UTC+4), remote · surhak96@gmail.com · [linkedin.com/in/surhak](https://www.linkedin.com/in/surhak/) · [github.com/surohak](https://github.com/surohak) · [surhak.vercel.app](https://surhak.vercel.app/)
 
@@ -6,7 +6,7 @@ PDF version: [Suren Hakobyan - Senior Frontend Engineer - CV.pdf](https://surhak
 
 ## About
 
-I build the hard part of product UI: editors, workflow builders and AI features, in high-performance web apps that millions of people use daily. Over 8+ years, I've shipped production products for Picsart (400M+ users), Warner Music Group, Empire, Simplified, JobLeads and Toptal, specializing in complex visual editors (Canvas, Konva.js, Fabric.js), node-based workflow builders (React Flow), AI-integrated interfaces and scalable SaaS architecture. Full ownership mindset: from architecture planning and CI/CD setup to mentoring teams, code reviews and stakeholder communication. I work agent-first every day (Claude Code, Cursor, Codex, MCP servers and CLIs) with specs, reusable skills and review gates, so the speed shows up as shipped work.
+I build the hard part of product UI: editors, workflow builders and AI features, in high-performance web apps that millions of people use daily. Over 8+ years, I've shipped production products for Picsart (400M+ users), Warner Music Group, Empire, Simplified, JobLeads and Toptal, specializing in complex visual editors (Canvas, Konva.js, Fabric.js), node-based workflow builders (React Flow), AI-integrated interfaces and scalable SaaS architecture. Full ownership mindset: from architecture planning and CI/CD setup to mentoring teams, code reviews and stakeholder communication. I work agent-first every day (Claude Code, Cursor, Codex, MCP servers and CLIs) with specs, reusable skills and review gates, so the speed shows up as shipped work. I build the system around coding agents, not just use them: 30+ composable Claude Code skills, hooks and review gates, model routing by task, and a learning loop where review comments from merged PRs become rules the agents load at planning and review. I also wrote an MCP server that runs parallel agent sessions in containers.
 
 ## Experience
 
@@ -16,6 +16,8 @@ I build the hard part of product UI: editors, workflow builders and AI features,
 Full-time on Toptal's in-house product team, building Toptal's own Applicant Tracking System (ATS): the hiring platform that powers how Toptal screens and moves candidates through hiring. Working in a large-scale React + TypeScript monorepo backed by GraphQL.
 
 - Built frontend for an interactive, node-based workflow builder in React + TypeScript on a canvas engine (React Flow): drag-and-drop editing, real-time branching visualization, and pan/zoom controls
+- Built my agentic engineering setup for the ATS monorepo: 30+ composable Claude Code skills, hooks and review gates, model routing by task, and a learning loop that turns merged-PR review comments into rules loaded at planning and review. MCP integrations (Jira, Confluence, Figma, Chrome DevTools, Slack) and CLIs take tickets to PRs
+- Wrote an MCP server for our internal agent platform that runs parallel containerized agent sessions, each on its own git worktree
 - Built data-intensive dashboards on GraphQL (Apollo Client): server-driven filtering, bulk actions, pagination, and complex state management
 - Shipped reusable, accessible UI building blocks across the product: dynamic forms, file upload, browser media capture, and rich content
 - Contributed components and icons to a Tailwind-based design system, applying token-driven theming and consistent UI patterns
@@ -97,7 +99,7 @@ Founding frontend engineer on Picsart's Creative Photo Editor, built from scratc
 
 - Main: TypeScript, JavaScript, React, Next.js, Vue, Nuxt.js, Canvas (2D), React Flow, Redux, Qt QML
 - HTML5 Canvas: Konva.js, Fabric.js, image/video processing, real-time rendering, layering systems, filters, transformations
-- AI & Agentic: Claude Code, Cursor IDE, Codex, Google Antigravity IDE, ChatGPT/Claude API, MCP (Model Context Protocol), RAG (Pinecone, embeddings), agent pipelines, prompt engineering, AI-augmented development, Figma AI, AI strategy & evaluation, LLM integration architecture, AI quality benchmarking, human-AI workflow design
+- AI & Agentic: Claude Code (skills, hooks, subagents), Cursor, Codex, MCP (custom servers), agent orchestration, model routing, review gates, LLM API integration (Claude, OpenAI), RAG (Pinecone, embeddings)
 - MCP & CLI: Atlassian MCP (Jira, Confluence), Playwright MCP, Chrome DevTools MCP, Figma MCP, Slack MCP, Sentry MCP, Grafana MCP, Context7, Neon MCP, Cloudflare MCP, custom MCP servers, GitHub CLI, GitLab CLI, Atlassian CLI, Vercel CLI, Wrangler, AWS CLI, gcloud, kubectl
 - State management: Redux (Toolkit), MobX, Zustand, Recoil, Effector.js, Vuex, Pinia
 - UI components: shadcn/ui, Radix UI, Headless UI, Material UI, Chakra UI, Ant Design, Vuetify, Core UI

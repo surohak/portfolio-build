@@ -1,6 +1,6 @@
 # Suren Hakobyan
 
-> Senior Frontend Engineer and AI-native Product Engineer (React, TypeScript, Next.js, Vue) based in Yerevan, Armenia, working remotely. Builds the hard part of product UI: canvas editors, node-based workflow builders and AI features in production. Works agent-first every day with Claude Code, Cursor, Codex, MCP servers and CLIs. Currently at Toptal, and founder of inflyu (inflyu.com), a solo-built AI creative platform with 10,000+ users; previously JobLeads, Simplified, ENKE Systems (Warner Music Group, Empire) and Picsart (founding frontend engineer on the Photo Editor).
+> Senior Frontend Engineer, with a focus on Agentic Engineering & AI Enablement (React, TypeScript, Next.js, Vue) based in Yerevan, Armenia, working remotely. Builds the hard part of product UI: canvas editors, node-based workflow builders and AI features in production. Works agent-first every day with Claude Code, Cursor, Codex, MCP servers and CLIs, and builds the system around coding agents: 30+ composable Claude Code skills, hooks and review gates, model routing by task, and an MCP server that runs parallel agent sessions in containers. Currently at Toptal, and founder of inflyu (inflyu.com), a solo-built AI creative platform with 10,000+ users; previously JobLeads, Simplified, ENKE Systems (Warner Music Group, Empire) and Picsart (founding frontend engineer on the Photo Editor).
 
 Contact: surhak96@gmail.com
 
@@ -14,12 +14,12 @@ Contact: surhak96@gmail.com
 - [Home](https://surhak.vercel.app/): overview
 - [About](https://surhak.vercel.app/about): background and how he works
 - [Projects](https://surhak.vercel.app/projects): selected work
-- [Skills](https://surhak.vercel.app/skills): full skills matrix, including AI & agentic tools (RAG, agent pipelines), MCP servers and CLIs, and mobile (React Native, Expo)
+- [Skills](https://surhak.vercel.app/skills): full skills matrix, including AI & agentic tools (Claude Code, MCP, agent orchestration, model routing, review gates, RAG), MCP servers and CLIs, and mobile (React Native, Expo)
 - [Contact](https://surhak.vercel.app/contact)
 
 ## Case studies
 
-- [Toptal: ATS workflow builder](https://surhak.vercel.app/projects/toptal): node-based workflow builder (React Flow), GraphQL dashboards, design system
+- [Toptal: ATS workflow builder](https://surhak.vercel.app/projects/toptal): node-based workflow builder (React Flow), GraphQL dashboards, design system, agentic engineering setup (Claude Code skills, hooks, review gates, model routing) and an MCP server for the internal agent platform
 - [JobLeads: AI resume product, then growth frontend](https://surhak.vercel.app/projects/jobleads): AI Resume Builder and Review, SEO, A/B tests, 90+ Lighthouse
 - [Simplified: AI photo/video/audio editor](https://surhak.vercel.app/projects/simplified): Canvas with Fabric.js, real-time processing, WebSocket collaboration
 - [Picsart: Creative Photo Editor from line one](https://surhak.vercel.app/projects/picsart): Canvas with Konva.js, 400M+ user product, WeChat mini-apps
