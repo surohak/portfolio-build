@@ -1,12 +1,12 @@
 # Suren Hakobyan, Senior Frontend Engineer · Agentic Engineering & AI Enablement
 
-Yerevan, Armenia (UTC+4), remote · surhak96@gmail.com · [linkedin.com/in/surhak](https://www.linkedin.com/in/surhak/) · [github.com/surohak](https://github.com/surohak) · [surhak.vercel.app](https://surhak.vercel.app/)
+Yerevan, Armenia, remote · surhak96@gmail.com · [linkedin.com/in/surhak](https://www.linkedin.com/in/surhak/) · [github.com/surohak](https://github.com/surohak) · [surhak.vercel.app](https://surhak.vercel.app/)
 
 PDF version: [Suren Hakobyan - Senior Frontend Engineer - CV.pdf](https://surhak.vercel.app/files/Suren%20Hakobyan%20-%20Senior%20Frontend%20Engineer%20-%20CV.pdf)
 
 ## About
 
-I build the hard part of product UI: editors, workflow builders and AI features, in high-performance web apps that millions of people use daily. Over 8+ years, I've shipped production products for Picsart (400M+ users), Warner Music Group, Empire, Simplified, JobLeads and Toptal, specializing in complex visual editors (Canvas, Konva.js, Fabric.js), node-based workflow builders (React Flow), AI-integrated interfaces and scalable SaaS architecture. Full ownership mindset: from architecture planning and CI/CD setup to mentoring teams, code reviews and stakeholder communication. I work agent-first every day (Claude Code, Cursor, Codex, MCP servers and CLIs) with specs, reusable skills and review gates, so the speed shows up as shipped work. I build the system around coding agents, not just use them: 30+ composable Claude Code skills, hooks and review gates, model routing by task, and a learning loop where review comments from merged PRs become rules the agents load at planning and review. I also wrote an MCP server that runs parallel agent sessions in containers.
+I build the hard part of product UI: editors, workflow builders and AI features, in high-performance web apps that millions of people use daily. Over 9+ years, I've shipped production products for Picsart (400M+ users), Warner Music Group, Empire, Simplified, JobLeads and Toptal, specializing in complex visual editors (Canvas, Konva.js, Fabric.js), node-based workflow builders (React Flow), AI-integrated interfaces and scalable SaaS architecture. Full ownership mindset: from architecture planning and CI/CD setup to mentoring teams, code reviews and stakeholder communication. I work agent-first every day (Claude Code, Cursor, Codex, MCP servers and CLIs) with specs, reusable skills and review gates, so the speed shows up as shipped work. I build the system around coding agents, not just use them: 30+ composable Claude Code skills, hooks and review gates, model routing by task, and a learning loop where review comments from merged PRs become rules the agents load at planning and review. I also wrote an MCP server that runs parallel agent sessions in containers.
 
 ## Experience
 
